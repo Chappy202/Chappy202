@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/Chappy202" alt="profile views"> •  
   <a href="https://chappy202.com/">Website</a> •
-  <a href="https://github.com/Chappy202/README">Work README</a> •
   <a href="https://www.linkedin.com/in/jj-badenhorst/">LinkedIn</a>
 </p>
 
