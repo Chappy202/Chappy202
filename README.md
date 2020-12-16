@@ -23,7 +23,7 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 - Database development using **MySQL, MSSQL, MongoDB**
 - Desktop Application development using **C# (.NET), Flutter**
 - Mobile Applications development using **Flutter, React Native**
-- Creating scalable cloud architectures using **AWS Cloud, Azure**
+- Creating scalable cloud architectures using **AWS Cloud, Azure, Digital Ocean**
 
 ## 💻 What I am currently/done working on
 - [Discord Bot - Bobby](https://github.com/Chappy202/Bobby)
