@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/Chappy202/Chappy202/main/banner.png "Header")](https://chappy202.com/)
 
 <!--
 **Chappy202/Chappy202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
