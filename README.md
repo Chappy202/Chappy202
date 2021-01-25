@@ -18,11 +18,11 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 - Thrillab
 
 ## ⚡ Technologies and Frameworks
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, ReactJs, Vue, jQuery**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, ReactJs, jQuery**
 - Back-end development using **NodeJs, Express, ASP.NET**
 - Database development using **MySQL, MSSQL, MongoDB**
-- Desktop Application development using **C# (.NET), Flutter**
-- Mobile Applications development using **Flutter, React Native**
+- Desktop Application development using **C# (.NET), Flutter, Dart**
+- Mobile Applications development using **Flutter, React Native, Dart**
 - Creating scalable cloud architectures using **AWS Cloud, Azure, Digital Ocean**
 
 ## 💻 What I am currently/done working on
