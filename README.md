@@ -12,22 +12,21 @@
 I'm a Computer Science student specializing in Software Engineering. I primarily program in Javascript, C#, Dart & Python. My specialty is Web applications but I can also develop mobile applications, desktop applications, do graphic design, optimize existing websites and also setup servers. I enjoy exploring new ideas and concepts and learning new skills as I go.</p>
 
 ## 👯 Communities
-- Minestack Owner
 - OxiBux
 - Tipthing
 - Thrillab
 
 ## ⚡ Technologies and Frameworks
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, ReactJs, jQuery**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, ReactJs, GatsbyJS, NextJS, jQuery**
 - Back-end development using **NodeJs, Express, ASP.NET**
 - Database development using **MySQL, MSSQL, MongoDB**
-- Desktop Application development using **C# (.NET), Flutter, Dart**
-- Mobile Applications development using **Flutter, React Native, Dart**
-- Creating scalable cloud architectures using **AWS Cloud, Azure, Digital Ocean**
+- Desktop Application development using **C# (.NET), Flutter, Java**
+- Mobile Applications development using **Flutter, React Native**
+- Creating scalable cloud architectures using **AWS Cloud, Azure, Digital Ocean, OVH, Linode, Docker**
 
 ## 💻 What I am currently/done working on
-- [Discord Bot - Bobby](https://github.com/Chappy202/Bobby)
-- [Custom Minecraft server network](https://minestack.org/)
+- [Discord Bot - Buddy](https://github.com/Chappy202/Buddy)
+- [Custom Minecraft server network](https://minestack.club/)
 - [Personal Portfolio Site](https://chappy202.com/)
 - Tipthing - *Coming soon*
 - Thrillab - *Coming soon*
@@ -39,3 +38,4 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 - [LinkedIn](https://www.linkedin.com/in/jj-badenhorst/)
 
 [![Chappy's github stats](https://github-readme-stats.vercel.app/api?username=Chappy202&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Chappy's github languages](https://github-readme-stats.vercel.app/api/top-langs/?Chappy202=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
