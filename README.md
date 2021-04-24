@@ -39,11 +39,11 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📜 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/GustafDelport/Booker/pull/27) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
-2. 💪 Opened PR [#27](https://github.com/GustafDelport/Booker/pull/27) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
-3. 💪 Opened PR [#19](https://github.com/GustafDelport/Booker/pull/19) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
-4. 💪 Opened PR [#18](https://github.com/GustafDelport/Booker/pull/18) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
-5. 💪 Opened PR [#14](https://github.com/GustafDelport/Booker/pull/14) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
+1. 💪 Opened PR [#9](https://github.com/GustafDelport/InstaIssue/pull/9) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+2. 🎉 Merged PR [#27](https://github.com/GustafDelport/Booker/pull/27) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
+3. 💪 Opened PR [#27](https://github.com/GustafDelport/Booker/pull/27) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
+4. 💪 Opened PR [#19](https://github.com/GustafDelport/Booker/pull/19) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
+5. 💪 Opened PR [#18](https://github.com/GustafDelport/Booker/pull/18) in [GustafDelport/Booker](https://github.com/GustafDelport/Booker)
 <!--END_SECTION:activity-->
 
 ## 📊 Statistics
