@@ -37,6 +37,7 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 - [Website](https://chappy202.com/)
 - [LinkedIn](https://www.linkedin.com/in/jj-badenhorst/)
 
+## 📜 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
