@@ -39,11 +39,11 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📜 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/GustafDelport/InstaIssue/pull/12) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-2. 💪 Opened PR [#12](https://github.com/GustafDelport/InstaIssue/pull/12) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-3. 🗣 Commented on [#10](https://github.com/GustafDelport/InstaIssue/issues/10) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-4. ❗️ Opened issue [#10](https://github.com/GustafDelport/InstaIssue/issues/10) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-5. 💪 Opened PR [#9](https://github.com/GustafDelport/InstaIssue/pull/9) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+1. 🎉 Merged PR [#1](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/1) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
+2. 💪 Opened PR [#1](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/1) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
+3. 🎉 Merged PR [#12](https://github.com/GustafDelport/InstaIssue/pull/12) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+4. 💪 Opened PR [#12](https://github.com/GustafDelport/InstaIssue/pull/12) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+5. 🗣 Commented on [#10](https://github.com/GustafDelport/InstaIssue/issues/10) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
 <!--END_SECTION:activity-->
 
 ## 📊 Statistics
