@@ -39,11 +39,11 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📜 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/GustafDelport/InstaIssue/issues/19) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-2. 🎉 Merged PR [#1](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/1) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
-3. 💪 Opened PR [#1](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/1) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
-4. 🎉 Merged PR [#12](https://github.com/GustafDelport/InstaIssue/pull/12) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-5. 💪 Opened PR [#12](https://github.com/GustafDelport/InstaIssue/pull/12) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+1. ❗️ Opened issue [#34](https://github.com/GustafDelport/InstaIssue/issues/34) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+2. 💪 Opened PR [#33](https://github.com/GustafDelport/InstaIssue/pull/33) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+3. ❗️ Opened issue [#32](https://github.com/GustafDelport/InstaIssue/issues/32) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+4. ❗️ Closed issue [#19](https://github.com/GustafDelport/InstaIssue/issues/19) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+5. ❗️ Reopened issue [#19](https://github.com/GustafDelport/InstaIssue/issues/19) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
 <!--END_SECTION:activity-->
 
 ## 📊 Statistics
