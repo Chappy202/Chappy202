@@ -39,11 +39,11 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📜 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/GustafDelport/InstaIssue/issues/34) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-2. 🎉 Merged PR [#135](https://github.com/GustafDelport/InstaIssue/pull/135) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-3. 💪 Opened PR [#135](https://github.com/GustafDelport/InstaIssue/pull/135) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-4. 🎉 Merged PR [#131](https://github.com/GustafDelport/InstaIssue/pull/131) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
-5. 🎉 Merged PR [#114](https://github.com/GustafDelport/InstaIssue/pull/114) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+1. 🎉 Merged PR [#140](https://github.com/GustafDelport/InstaIssue/pull/140) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+2. 💪 Opened PR [#140](https://github.com/GustafDelport/InstaIssue/pull/140) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+3. 🎉 Merged PR [#138](https://github.com/GustafDelport/InstaIssue/pull/138) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+4. 💪 Opened PR [#138](https://github.com/GustafDelport/InstaIssue/pull/138) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
+5. ❗️ Closed issue [#34](https://github.com/GustafDelport/InstaIssue/issues/34) in [GustafDelport/InstaIssue](https://github.com/GustafDelport/InstaIssue)
 <!--END_SECTION:activity-->
 
 ## 📊 Statistics
