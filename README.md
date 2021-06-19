@@ -39,11 +39,11 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📜 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/2) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
-2. 💪 Opened PR [#2](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/2) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
-3. ❗️ Opened issue [#9](https://github.com/Chappy202/Buddy/issues/9) in [Chappy202/Buddy](https://github.com/Chappy202/Buddy)
-4. ❗️ Opened issue [#8](https://github.com/Chappy202/Buddy/issues/8) in [Chappy202/Buddy](https://github.com/Chappy202/Buddy)
-5. ❗️ Opened issue [#7](https://github.com/Chappy202/Buddy/issues/7) in [Chappy202/Buddy](https://github.com/Chappy202/Buddy)
+1. 🎉 Merged PR [#3](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/3) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
+2. 💪 Opened PR [#3](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/3) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
+3. 🎉 Merged PR [#2](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/2) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
+4. 💪 Opened PR [#2](https://github.com/OpenRemote-Energy-Challenge/Front-End/pull/2) in [OpenRemote-Energy-Challenge/Front-End](https://github.com/OpenRemote-Energy-Challenge/Front-End)
+5. ❗️ Opened issue [#9](https://github.com/Chappy202/Buddy/issues/9) in [Chappy202/Buddy](https://github.com/Chappy202/Buddy)
 <!--END_SECTION:activity-->
 
 ## 📊 Statistics
