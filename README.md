@@ -39,11 +39,11 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📜 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/10) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-2. 💪 Opened PR [#10](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/10) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-3. 🎉 Merged PR [#9](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/9) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-4. 🎉 Merged PR [#8](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/8) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-5. 💪 Opened PR [#8](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/8) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
+1. 🎉 Merged PR [#13](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/13) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
+2. 💪 Opened PR [#13](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/13) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
+3. 🎉 Merged PR [#12](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/12) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
+4. 💪 Opened PR [#12](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/12) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
+5. 🎉 Merged PR [#11](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/11) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
 <!--END_SECTION:activity-->
 
 ## 📊 Statistics
