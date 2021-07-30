@@ -33,7 +33,7 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📫 How to reach me
 - Discord - Chappy#3353
-- [Email](mailto:jj@chappy202.com)
+- [Email](mailto:jj@oxibux.com)
 - [Website](https://chappy202.com/)
 - [LinkedIn](https://www.linkedin.com/in/jj-badenhorst/)
 
