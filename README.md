@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Chappy202" alt="profile views"> •  
+  [![wakatime](https://wakatime.com/badge/user/070c2e0e-6311-44a4-be7b-adcea937bca7.svg)](https://wakatime.com/@070c2e0e-6311-44a4-be7b-adcea937bca7) •
   <a href="https://chappy202.com/">Website</a> •
   <a href="https://www.linkedin.com/in/jj-badenhorst/">LinkedIn</a>
 </p>
