@@ -49,5 +49,5 @@ I'm a Computer Science student specializing in Software Engineering. I primarily
 
 ## 📊 Statistics
 [![Chappy's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chappy202&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br />
-[![Chappy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chappy202&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Chappy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chappy202&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![Chappy's github stats](https://github-readme-stats.vercel.app/api?username=Chappy202&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
