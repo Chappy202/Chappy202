@@ -116,9 +116,8 @@ Hi there 👋, I'm a software engineer specializing in web application developme
 
 ## 💻 What I am currently/done working on
 - [Discord Bot - Buddy](https://github.com/Chappy202/Buddy)
-- [Custom Minecraft server network](https://minestack.club/)
 - [Personal Portfolio Site](https://chappy202.com/)
-- Tipthing - *Coming soon*
+- [TipThing](https://tipthing.com)
 - Thrillab - *Coming soon*
 
 ## 📫 How to reach me
