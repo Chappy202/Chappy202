@@ -132,7 +132,7 @@ Hi there 👋, I'm a software engineer specializing in web application developme
 <a href="https://linkedin.com/in/jj-badenhorst" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<img src=https://img.shields.io/badge/discord-%231E77B8.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Chappy#3353-%231E77B8.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </div>  
 
 ## 📜 Recent Activity
