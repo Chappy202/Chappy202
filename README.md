@@ -120,13 +120,11 @@ My passion lies in the creation of exceptional web applications, complemented by
 </div>  
 
 ## 📜 Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12081](https://github.com/Jackett/Jackett/issues/12081) in [Jackett/Jackett](https://github.com/Jackett/Jackett)
-2. 🎉 Merged PR [#13](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/13) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-3. 💪 Opened PR [#13](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/13) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-4. 🎉 Merged PR [#12](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/12) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-5. 💪 Opened PR [#12](https://github.com/Chappy202/NodeJS-Archiving-Tool/pull/12) in [Chappy202/NodeJS-Archiving-Tool](https://github.com/Chappy202/NodeJS-Archiving-Tool)
-<!--END_SECTION:activity-->
+
+This is a list of my most recent activity on GitHub.
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 📊 Statistics
 [![Chappy's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chappy202&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br />
