@@ -8,9 +8,9 @@
 ---
 
 <p align="center">
-Hi there 👋, I'm a software engineer with a specialization in web application development and fintech solutions. Armed with a degree in Computer Science, I proudly contribute my skills at Entelect. Within this remarkable realm, I predominantly utilize Java Spring to craft cutting-edge fintech software. During my leisure hours, I find immense joy in exploring the Node.js stack, leveraging frameworks such as ExpressJS, NextJS, React, and GatsbyJS. Additionally, I possess proficiency in C#, Dart, GoLang, and Python.
+Hi there 👋, I'm a software engineer with a specialization in web application development and fintech solutions. Armed with a degree in Computer Science, I proudly contribute my skills at Entelect. Within this remarkable realm, I predominantly utilize Java Spring to craft cutting-edge fintech software. During my leisure hours, I find immense joy in exploring the Node.js stack, leveraging frameworks such as ExpressJS, NextJS, React, and GatsbyJS. Additionally, I possess proficiency in C#, Dart, GoLang, and Python.</p>
 
-My passion lies in the creation of exceptional web applications, complemented by a diverse skill set. From mobile and desktop application development to graphic design employing Illustrator and Photoshop, and photo editing utilizing Lightroom and Photoshop, I thrive on pushing boundaries. I also possess expertise in website optimization, as well as advanced network and server architecture setup. With a strong grasp of DevOps, I wholeheartedly embrace opportunities for learning and relish the thrill of new challenges. Let's dive in! 💪</p>
+<p align="center">My passion lies in the creation of exceptional web applications, complemented by a diverse skill set. From mobile and desktop application development to graphic design employing Illustrator and Photoshop, and photo editing utilizing Lightroom and Photoshop, I thrive on pushing boundaries. I also possess expertise in website optimization, as well as advanced network and server architecture setup. With a strong grasp of DevOps, I wholeheartedly embrace opportunities for learning and relish the thrill of new challenges. Let's dive in! 💪</p>
 
 
 ## ⚡ Technologies and Frameworks
