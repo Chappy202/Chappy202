@@ -123,15 +123,15 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [TipThing/supabase-backend](https://github.com/TipThing/supabase-backend)<br>
-2. 💪 Opened PR [#1](https://github.com/TipThing/supebase-backend/pull/1) in [TipThing/supebase-backend](https://github.com/TipThing/supebase-backend)<br>
-3. 📔 Created new repository [TipThing/supebase-backend](https://github.com/TipThing/supebase-backend)<br>
-4. ⬆️ Pushed 2 commit(s) to [TipThing/web-app](https://github.com/TipThing/web-app)<br>
-5. 🎉 Merged PR [#40](https://github.com/TipThing/web-app/pull/40) in [TipThing/web-app](https://github.com/TipThing/web-app)<br>
+1. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+2. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+3. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+4. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+5. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 13th, 2023, 2:03:10 PM (GMT)
+Last Updated: Wednesday, June 14th, 2023, 1:24:42 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
