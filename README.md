@@ -115,12 +115,10 @@ This is a list of my most recent activity on GitHub.
 1. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
 2. ⭐ Starred [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)<br>
 3. ⭐ Starred [Expl0dingCat/Ame](https://github.com/Expl0dingCat/Ame)<br>
-4. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
-5. ⭐ Starred [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 27th, 2024, 1:06:14 AM (GMT)
+Last Updated: Saturday, April 27th, 2024, 12:25:51 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
