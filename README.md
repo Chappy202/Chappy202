@@ -112,13 +112,15 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
-2. ⭐ Starred [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)<br>
-3. ⭐ Starred [Expl0dingCat/Ame](https://github.com/Expl0dingCat/Ame)<br>
+1. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)<br>
+2. ⭐ Starred [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer)<br>
+3. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
+4. ⭐ Starred [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app)<br>
+5. ⭐ Starred [Expl0dingCat/Ame](https://github.com/Expl0dingCat/Ame)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 1st, 2024, 12:29:19 PM (GMT)
+Last Updated: Thursday, May 2nd, 2024, 1:07:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
