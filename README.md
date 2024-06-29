@@ -113,14 +113,14 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-2. 📔 Created new repository [Chappy202/buddy](https://github.com/Chappy202/buddy)<br>
-3. ⭐ Starred [AnghelLeonard/Hibernate-SpringBoot](https://github.com/AnghelLeonard/Hibernate-SpringBoot)<br>
-4. ⭐ Starred [akto-api-security/akto](https://github.com/akto-api-security/akto)<br>
-5. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)<br>
+2. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+3. 📔 Created new repository [Chappy202/buddy](https://github.com/Chappy202/buddy)<br>
+4. ⭐ Starred [AnghelLeonard/Hibernate-SpringBoot](https://github.com/AnghelLeonard/Hibernate-SpringBoot)<br>
+5. ⭐ Starred [akto-api-security/akto](https://github.com/akto-api-security/akto)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 28th, 2024, 12:31:46 PM (GMT)
+Last Updated: Saturday, June 29th, 2024, 1:11:52 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
