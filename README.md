@@ -112,15 +112,15 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Chappy202/headless-auth-service](https://github.com/Chappy202/headless-auth-service)<br>
-2. 🎉 Merged PR [#15](https://github.com/Chappy202/headless-auth-service/pull/15) in [Chappy202/headless-auth-service](https://github.com/Chappy202/headless-auth-service)<br>
+1. ⭐ Starred [siddharthamaity/nextjs-15-starter-tailwind](https://github.com/siddharthamaity/nextjs-15-starter-tailwind)<br>
+2. ⭐ Starred [siddharthamaity/nextjs-15-starter-shadcn](https://github.com/siddharthamaity/nextjs-15-starter-shadcn)<br>
 3. ⬆️ Pushed 2 commit(s) to [Chappy202/headless-auth-service](https://github.com/Chappy202/headless-auth-service)<br>
-4. 🎉 Merged PR [#16](https://github.com/Chappy202/headless-auth-service/pull/16) in [Chappy202/headless-auth-service](https://github.com/Chappy202/headless-auth-service)<br>
+4. 🎉 Merged PR [#15](https://github.com/Chappy202/headless-auth-service/pull/15) in [Chappy202/headless-auth-service](https://github.com/Chappy202/headless-auth-service)<br>
 5. ⬆️ Pushed 2 commit(s) to [Chappy202/headless-auth-service](https://github.com/Chappy202/headless-auth-service)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 2nd, 2024, 12:34:35 PM (GMT)
+Last Updated: Sunday, November 3rd, 2024, 1:38:23 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
