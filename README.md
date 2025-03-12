@@ -112,12 +112,13 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
-2. 📔 Created new repository [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
+1. ⬆️ Pushed 16 commit(s) to [Chappy202/portainer_templates](https://github.com/Chappy202/portainer_templates)<br>
+2. ⬆️ Pushed 1 commit(s) to [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
+3. 📔 Created new repository [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 11th, 2025, 12:39:35 PM (GMT)
+Last Updated: Wednesday, March 12th, 2025, 1:36:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
