@@ -106,15 +106,15 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
-2. 🎉 Merged PR [#53](https://github.com/Chappy202/modal-manager/pull/53) in [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
-3. ⬆️ Pushed 2 commit(s) to [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
-4. 🎉 Merged PR [#52](https://github.com/Chappy202/modal-manager/pull/52) in [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
-5. ⬆️ Pushed 2 commit(s) to [Chappy202/modal-manager](https://github.com/Chappy202/modal-manager)<br>
+1. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+2. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+3. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+4. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+5. ⬆️ Pushed 1 commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 28th, 2025, 12:44:52 PM (GMT)
+Last Updated: Thursday, May 29th, 2025, 1:48:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
