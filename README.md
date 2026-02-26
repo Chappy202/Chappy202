@@ -100,15 +100,15 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
-2. ⬆️ Pushed undefined commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
+1. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)<br>
+2. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
 3. ⬆️ Pushed undefined commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
 4. ⬆️ Pushed undefined commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
-5. ⭐ Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)<br>
+5. ⬆️ Pushed undefined commit(s) to [TipThing/landing-website](https://github.com/TipThing/landing-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 25th, 2026, 1:12:06 PM (GMT)
+Last Updated: Thursday, February 26th, 2026, 2:24:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
