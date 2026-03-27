@@ -101,11 +101,10 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)<br>
-2. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 26th, 2026, 1:23:27 PM (GMT)
+Last Updated: Friday, March 27th, 2026, 2:40:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
