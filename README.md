@@ -100,15 +100,15 @@ Hi there 👋, I'm a software engineer with a specialization in web application 
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Chappy202/swe-conference](https://github.com/Chappy202/swe-conference)<br>
-2. ⬆️ Pushed undefined commit(s) to [Chappy202/swe-conference](https://github.com/Chappy202/swe-conference)<br>
-3. ⬆️ Pushed undefined commit(s) to [Chappy202/swe-conference](https://github.com/Chappy202/swe-conference)<br>
-4. ⬆️ Pushed undefined commit(s) to [Chappy202/swe-conference](https://github.com/Chappy202/swe-conference)<br>
+1. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
+2. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
+3. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
+4. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
 5. ⬆️ Pushed undefined commit(s) to [Chappy202/swe-conference](https://github.com/Chappy202/swe-conference)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 29th, 2026, 3:51:07 PM (GMT)
+Last Updated: Tuesday, June 30th, 2026, 3:54:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
