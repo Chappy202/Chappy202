@@ -104,11 +104,11 @@ This is a list of my most recent activity on GitHub.
 2. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
 3. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
 4. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
-5. ⬆️ Pushed undefined commit(s) to [Chappy202/swe-conference](https://github.com/Chappy202/swe-conference)<br>
+5. ⬆️ Pushed undefined commit(s) to [Chappy202/arctis-sound-manager](https://github.com/Chappy202/arctis-sound-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 30th, 2026, 3:54:39 AM (GMT)
+Last Updated: Tuesday, June 30th, 2026, 2:24:18 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Statistics
